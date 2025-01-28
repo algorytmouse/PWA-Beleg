@@ -1,6 +1,6 @@
 {
-  "name": "Instagram Clone",
-  "short_name": "InstaClone",
+  "name": "Cat Picture Demo",
+  "short_name": "CatDemo",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
